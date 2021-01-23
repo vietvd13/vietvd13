@@ -4,7 +4,8 @@
 - 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
 - 🌱 I am currently learning **Sass and Algorithms**
 - 💬 Ask me about **Vue, Bootstrap and Git**
-- 📫 How to reach me: [@vuviet13](https://www.facebook.com/vuviet13/) on Facebook
+- 🌐 Facebook: [@vuviet13](https://www.facebook.com/vuviet13/)
+- 🌐 Instagram: [@vuviet13](https://www.instagram.com/vuviet13/)
 - 📩 My email: **vuducviet0131@gmail.com**
 
 <p align="left">
