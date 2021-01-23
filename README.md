@@ -26,15 +26,20 @@
   </a>
 </div>
 
-<div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
-    </a> 
-</div>
+<br>
+
 <div align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
     </a>
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
+    </a> 
 </div>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
