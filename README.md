@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Vũ Đức Việt</h1>
 
-<h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
-
+> 💻 Passionate Web Developer - Frontend
+ >
 > 💬 Ask me about **Vue, Bootstrap and Git**
  > 
 > 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
