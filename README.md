@@ -1,10 +1,13 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Vũ Đức Việt</h1>
 
 <h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
-- 💬 Ask me about **Vue, Bootstrap and Git**
-- 📩 My email: **vuducviet0131@gmail.com**
-- 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
-- 🌱 I am currently learning **Sass and Algorithms**
+<p>
+  <p>- 💬 Ask me about **Vue, Bootstrap and Git**</p>
+  <p>- 📩 My email: **vuducviet0131@gmail.com**</p>
+  <p>- 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**</p>
+  <p>- 🌱 I am currently learning **Sass and Algorithms**</p>
+</p>
+
 <p>
   <a href="mailto:vuducviet0131@gamil.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/vuviet13/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
