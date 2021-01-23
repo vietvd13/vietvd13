@@ -1,13 +1,15 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Vũ Đức Việt</h1>
 <h3 align="left"> Passionate Web Developer - Frontend</h3>
 
+- 💬 Ask me about **Vue, Bootstrap and Git**
+- 📩 My email: **vuducviet0131@gmail.com**
 - 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
 - 🌱 I am currently learning **Sass and Algorithms**
-- 💬 Ask me about **Vue, Bootstrap and Git**
-- 🌐 Facebook: [@vuviet13](https://www.facebook.com/vuviet13/)
-- 🌐 Instagram: [@vuviet13](https://www.instagram.com/vuviet13/)
-- 📩 My email: **vuducviet0131@gmail.com**
-- 📍  Nationality: **Việt Nam**
+<p>
+  <a href="mailto:vuducviet0131@gamil.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vuviet13/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
 
 <p align="left">
   <a href="https://github.com/vietvd13/vietvd13">
@@ -22,21 +24,32 @@
 </p>
 
 <p>
+  <a align="left" href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
+  </a> 
   <p>
-    <a href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
-    </a> 
-  </p>
-  <p>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
-    </a>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   </p>
 </p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<p>
+  <a align="left" href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
+  </a>
+</p>
 
-> Tools, languages, and other things that I like to work with.
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 <table>
   <tr>
