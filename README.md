@@ -2,7 +2,6 @@
 <h3 align="left"> Passionate Web Developer - Frontend</h3>
 
 <p>
-  <p>
     - 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
     - 🌱 I am currently learning **Sass and Algorithms**
     - 💬 Ask me about **Vue, Bootstrap and Git**
@@ -10,8 +9,7 @@
     - 🌐 Instagram: [@vuviet13](https://www.instagram.com/vuviet13/)
     - 📩 My email: **vuducviet0131@gmail.com**
     - 📍  Nationality: **Việt Nam**
-  </p>
-  <p>
+  <p align="right">
     <a href="#macropower-title">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
     </a>
