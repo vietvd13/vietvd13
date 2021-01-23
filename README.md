@@ -21,15 +21,14 @@
   </a>
 </p>
 
-<h3 align="left"> Most used languages</h3>
-<a href="#macropower-title">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
-</a>
-
-<h3 align="left"> Total GitHub</h3>
-<a href="#macropower-title">
-    <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
-</a> 
+<p>
+  <a href="#macropower-title">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
+  </a>
+  <a href="#macropower-title">
+      <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
+  </a>
+</p> 
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
