@@ -42,7 +42,6 @@
     </a> 
 </div>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -50,12 +49,6 @@
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-original.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Golang
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -98,14 +91,6 @@
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
