@@ -9,7 +9,7 @@
 > 🌱 I am currently learning **Sass and Algorithms**
 
 
-<div align="center">
+<div align="center"">
   <a href="mailto:vuducviet0131@gamil.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/vuviet13/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
@@ -27,23 +27,22 @@
 </div>
 
 <h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
-<div>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
+<div align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
         <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
     </a> 
 </div>
 
 <h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
-<div>
-    <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
+<div align="center">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
     </a>
 </div>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-<table align="center">
-  <tr align="center">
+<table>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
