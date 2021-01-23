@@ -19,20 +19,13 @@
   </a>
 </p>
 
-<table width="100%">
-    <tr>
-        <td width="50%">
-            <a href="#macropower-title">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
-            </a>
-        </td>
-        <td width="50%">
-            <a href="#macropower-title">
-                <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
-            </a>  
-        </td>
-    </tr>
-</table>
+<a href="#macropower-title" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
+</a>
+
+<a href="#macropower-title" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
+</a> 
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -119,14 +112,16 @@
 
 <h2 align="left" id="macropower-tech">Weekly development breakdown</h2>
 
+<center>
 ```text
 Vue        2 hrs 51 mins   █████████████████▓░░░░░░░   70.85 % 
 HTML       36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 Python     32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 ```
+</center>
 
 <h2 align="left" id="macropower-tech">Remember</h2>
-
+<center>
 ```
   _ __   _____   _____ _ __    ___  __ _ _   _    _ __   _____   _____ _ __
  | '_ \ / _ \ \ / / _ \ '__|  / __|/ _` | | | |  | '_ \ / _ \ \ / / _ \ '__|
@@ -134,13 +129,14 @@ Python     32 mins         ███▒░░░░░░░░░░░░░�
  |_| |_|\___| \_/ \___|_|     |___/\__,_|\__, |  |_| |_|\___| \_/ \___|_|
                                           |___/
 ```
+</center>
 
 <h2 align="left" id="macropower-tech">Favorite music</h2>
 
 <table width="100%">
     <tr>
-
+        </center>
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/2143shsp3jne3nvja3czww5ui)
-
+        </center>
     </tr>
 </table>
