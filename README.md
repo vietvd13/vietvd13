@@ -10,43 +10,17 @@
   <a href="https://www.instagram.com/vuviet13/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-
-<p align="left">
-  <a href="https://github.com/vietvd13/vietvd13">
-    <img src="https://komarev.com/ghpvc/?username=vietvd13" alt="page views" />
-  </a>
-  <a href="https://stackoverflow.com/users/13995968">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13995968?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/vietvd13?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/vietvd13?color=green&logo=github">
-  </a>
-</p>
-
 <p>
-  <a align="left" href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
-  </a> 
   <p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <a align="left" width="490" height="200" href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
+    </a> 
   </p>
-</p>
-
-<p>
-  <a align="left" href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
-  </a>
+  <p>
+    <a align="right" width="490" height="200" href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
+    </a>
+  </p>
 </p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -129,3 +103,15 @@
     </td>
   </tr>
 </table>
+
+<p align="left">
+  <a href="https://github.com/vietvd13/vietvd13">
+    <img src="https://komarev.com/ghpvc/?username=vietvd13" alt="page views" />
+  </a>
+  <a href="https://stackoverflow.com/users/13995968">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13995968?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/vietvd13?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/vietvd13?color=green&logo=github">
+  </a>
+</p>
