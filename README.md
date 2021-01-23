@@ -3,7 +3,9 @@
 <h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
 
 > 💬 Ask me about **Vue, Bootstrap and Git**
+ > 
 > 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
+ > 
 > 🌱 I am currently learning **Sass and Algorithms**
 
 
