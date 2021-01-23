@@ -1,20 +1,13 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Vũ Đức Việt</h1>
 <h3 align="left"> Passionate Web Developer - Frontend</h3>
 
-<p>
-    - 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
-    - 🌱 I am currently learning **Sass and Algorithms**
-    - 💬 Ask me about **Vue, Bootstrap and Git**
-    - 🌐 Facebook: [@vuviet13](https://www.facebook.com/vuviet13/)
-    - 🌐 Instagram: [@vuviet13](https://www.instagram.com/vuviet13/)
-    - 📩 My email: **vuducviet0131@gmail.com**
-    - 📍  Nationality: **Việt Nam**
-  <p align="right">
-    <a href="#macropower-title">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
-    </a>
-  </p>
-</p>
+- 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
+- 🌱 I am currently learning **Sass and Algorithms**
+- 💬 Ask me about **Vue, Bootstrap and Git**
+- 🌐 Facebook: [@vuviet13](https://www.facebook.com/vuviet13/)
+- 🌐 Instagram: [@vuviet13](https://www.instagram.com/vuviet13/)
+- 📩 My email: **vuducviet0131@gmail.com**
+- 📍  Nationality: **Việt Nam**
 
 <p align="left">
   <a href="https://github.com/vietvd13/vietvd13">
@@ -29,13 +22,17 @@
 </p>
 
 <p>
-  <a href="#macropower-title">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
-  </a>
-  <a href="#macropower-title">
-      <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
-  </a>
-</p> 
+  <p>
+    <a href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
+    </a> 
+  </p>
+  <p>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
+    </a>
+  </p>
+</p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
