@@ -113,31 +113,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left" id="macropower-tech">Weekly development breakdown</h2>
-
-```text
-Vue        2 hrs 51 mins   █████████████████▓░░░░░░░   70.85 % 
-HTML       36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Python     32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-```
-
-<h2 align="left" id="macropower-tech">Remember</h2>
-
-```text
-  _ __   _____   _____ _ __    ___  __ _ _   _    _ __   _____   _____ _ __
- | '_ \ / _ \ \ / / _ \ '__|  / __|/ _` | | | |  | '_ \ / _ \ \ / / _ \ '__|
- | | | |  __/\ V /  __/ |     \__ \ (_| | |_| |  | | | |  __/\ V /  __/ |
- |_| |_|\___| \_/ \___|_|     |___/\__,_|\__, |  |_| |_|\___| \_/ \___|_|
-                                          |___/
-```
-
-
-<h2 align="left" id="macropower-tech">Favorite music</h2>
-
-<table width="100%">
-    <tr>
-
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/2143shsp3jne3nvja3czww5ui)
-    </tr>
-</table>
