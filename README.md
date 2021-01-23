@@ -1,19 +1,18 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Vũ Đức Việt</h1>
 
 <h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
-<p>
-  - 💬 Ask me about **Vue, Bootstrap and Git**
-  - 📩 My email: **vuducviet0131@gmail.com**
-  - 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
-  - 🌱 I am currently learning **Sass and Algorithms**
-</p>
 
-<p>
+> 💬 Ask me about **Vue, Bootstrap and Git**
+> 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
+> 🌱 I am currently learning **Sass and Algorithms**
+
+
+<div align="center">
   <a href="mailto:vuducviet0131@gamil.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/vuviet13/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+</div>
 
-<p align="left">
+<div align="center">
   <a href="https://github.com/vietvd13/vietvd13">
     <img src="https://komarev.com/ghpvc/?username=vietvd13" alt="page views" />
   </a>
@@ -23,27 +22,26 @@
   <a href="https://github.com/vietvd13?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/vietvd13?color=green&logo=github">
   </a>
-</p>
+</div>
 
-<p>
-  <p>
-    <h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
-    <a align="left" width="490" height="200" href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
+<h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
+<div>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true">
         <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&count_private=true&include_all_commits=true" alt="macropower"/>
     </a> 
-  </p>
-  <p>
-  <h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
-    <a align="right" width="490" height="200" href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
+</div>
+
+<h2 align="left" id="macropower-tech">Passionate Web Developer - Frontend</h2>
+<div>
+    <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
     </a>
-  </p>
-</p>
+</div>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
