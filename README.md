@@ -1,13 +1,22 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Vũ Đức Việt</h1>
 <h3 align="left"> Passionate Web Developer - Frontend</h3>
 
-- 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
-- 🌱 I am currently learning **Sass and Algorithms**
-- 💬 Ask me about **Vue, Bootstrap and Git**
-- 🌐 Facebook: [@vuviet13](https://www.facebook.com/vuviet13/)
-- 🌐 Instagram: [@vuviet13](https://www.instagram.com/vuviet13/)
-- 📩 My email: **vuducviet0131@gmail.com**
-- 📍  Nationality: **Việt Nam**
+<p>
+  <p>
+    - 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
+    - 🌱 I am currently learning **Sass and Algorithms**
+    - 💬 Ask me about **Vue, Bootstrap and Git**
+    - 🌐 Facebook: [@vuviet13](https://www.facebook.com/vuviet13/)
+    - 🌐 Instagram: [@vuviet13](https://www.instagram.com/vuviet13/)
+    - 📩 My email: **vuducviet0131@gmail.com**
+    - 📍  Nationality: **Việt Nam**
+  </p>
+  <p>
+    <a href="#macropower-title">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietvd13&layout=compact" alt="macropower"/>
+    </a>
+  </p>
+</p>
 
 <p align="left">
   <a href="https://github.com/vietvd13/vietvd13">
