@@ -1,13 +1,14 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Vũ Đức Việt</h1>
 
-> 💻 Passionate Web Developer - Frontend
- >
-> 💬 Ask me about **Vue, Bootstrap and Git**
- > 
-> 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
- > 
-> 🌱 I am currently learning **Sass and Algorithms**
-
+> 💻 Passionate Web Developer - Frontend.
+>
+> 💬 Ask me about **Vue, Bootstrap and Git**.
+>
+> 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**.
+>
+> 🌱 I am currently learning **Sass and Algorithms**.
+>
+> 💼 Currently I have **1 year of experience** in application development using **Laravel** and **VueJS** technologies
 
 <div align="center"">
   <a href="mailto:vuducviet0131@gamil.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
