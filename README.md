@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vũ Đức Việt</h1>
 <h3 align="center">A passionate frontend developer from Việt Nam</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vietvd13&label=Profile%20views&color=0e75b6&style=flat" alt="vietvd13" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vietvd13&label=Profile%20views&color=0e75b6&style=flat" alt="vietvd13" />
+</p>
 
 <p>
 
@@ -20,11 +22,15 @@
 </p>
 
 <h3 align="center">Connect with me</h3>
+
 <p align="center">
   <a href="mailto:vuducviet0131@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
-  </a> 
-  <a href="https://www.instagram.com/vuviet13/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  </a>
+
+  <a href="https://www.instagram.com/vuviet13/">
+    <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -132,13 +138,19 @@
 </div>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" /></p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" />
+  </p>
 </div>
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&locale=en" alt="vietvd13" /></p>
+  <p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&locale=en" alt="vietvd13" />
+  </p>
 </div>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietvd13&" alt="vietvd13" /></p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietvd13&" alt="vietvd13" />
+  </p>
 </div>
