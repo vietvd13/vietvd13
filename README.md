@@ -15,7 +15,7 @@
 
 - 🌱 I am currently learning **Sass and Algorithms**
 
-<h1 align="center">Connect with me:</h1>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="mailto:vuducviet0131@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/vuviet13/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h1 align="center">Languages and Tools:</h1>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank">
@@ -115,7 +115,17 @@
   </a> 
 </p>
 
-<h1 align="center">Some other information</h1>
+<h3 align="center">Some other information</h3>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
+
+</div>
 
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" /></p>
@@ -127,14 +137,4 @@
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietvd13&" alt="vietvd13" /></p>
-</div>
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-
 </div>
