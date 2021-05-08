@@ -3,17 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vietvd13&label=Profile%20views&color=0e75b6&style=flat" alt="vietvd13" /> </p>
 
-- 🌱 I’m currently learning **React Native and Flutter**
-
-- 💬 Ask me about **Vue, Bootstrap and Git**
-
-- 📫 How to reach me **vuducviet0131@gmail.com**
-
-- ⚡ Fun fact **I think I am a passionate frontend developer.**
-
-- 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
-
-- 🌱 I am currently learning **Sass and Algorithms**
+<p>
+  <p>- 🌱 I’m currently learning **React Native and Flutter**</p>
+  <p>- 💬 Ask me about **Vue, Bootstrap and Git**</p>
+  <p>- 📫 How to reach me **vuducviet0131@gmail.com**</p>
+  <p>- ⚡ Fun fact **I think I am a passionate frontend developer.**</p>
+  <p>- 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**</p>
+  <p>- 🌱 I am currently learning **Sass and Algorithms**</p>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
