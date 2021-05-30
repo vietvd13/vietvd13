@@ -124,33 +124,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
 </p>
-
-<h3 align="center">Some other information</h3>
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vietvd13&theme=github)](https://github.com/vietvd13/github-profile-summary-cards)
-
-</div>
-
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" />
-  </p>
-</div>
-
-<div align="center">
-  <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&locale=en" alt="vietvd13" />
-  </p>
-</div>
-
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietvd13&" alt="vietvd13" />
-  </p>
-</div>
