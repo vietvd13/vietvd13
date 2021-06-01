@@ -3,7 +3,7 @@
 
 <p>
 
-- 🌱 I’m currently learning **React Native and Flutter**
+- 🌱 I am currently learning **Sass and Algorithms**
 
 - 💬 Ask me about **Vue, Bootstrap and Git**
 
@@ -12,8 +12,6 @@
 - ⚡ Fun fact **I think I am a passionate frontend developer.**
 
 - 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
-
-- 🌱 I am currently learning **Sass and Algorithms**
 
 </p>
 
