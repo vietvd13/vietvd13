@@ -9,7 +9,6 @@
 <a href="https://fb.com/vuviet13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vuviet13" height="30" width="40" /></a>
 <a href="https://instagram.com/vuviet13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vuviet13" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vuducviet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vuducviet" height="30" width="40" /></a>
-<a href="https://discord.gg/vietvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vietvd" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vietvd13" alt="vietvd13" /></a> </p>
