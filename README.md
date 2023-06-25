@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vũ Đức Việt</h1>
 <h3 align="center">A passionate frontend developer from Việt Nam</h3>
 
-<p>
-
-- 🌱 I am currently learning **Sass and Algorithms**
-
-- 📫 How to reach me **vuducviet0131@gmail.com**
-
-- ⚡ Fun fact **I think I am a passionate frontend developer.**
-
-- 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
-
-</p>
-
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
