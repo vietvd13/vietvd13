@@ -21,5 +21,5 @@
 
 <p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vietvd13&" alt="vietvd13" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vietvd13" alt="vietvd13" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=vietvd13" alt="vietvd13" /></a> </p>
 </details>
