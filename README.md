@@ -15,11 +15,11 @@
 
 <details>
 <summary>Details</summary>
-<p align="center"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&locale=en" alt="vietvd13" /></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&locale=en" alt="vietvd13" /></p>
 
-<p align="center"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" /></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietvd13&" alt="vietvd13" /></p>
+<p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vietvd13&" alt="vietvd13" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vietvd13" alt="vietvd13" /></a> </p>
 </details>
