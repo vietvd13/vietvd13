@@ -12,9 +12,9 @@
 </p>
 
 <h3 align="center">Support:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" /></p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&locale=en" alt="vietvd13" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietvd13&" alt="vietvd13" /></p>
 
