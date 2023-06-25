@@ -11,8 +11,6 @@
 <a href="https://www.hackerearth.com/@vuducviet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vuducviet" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vietvd13" alt="vietvd13" /></a> </p>
-
 <h3 align="center">Support:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" /></p>
 
@@ -21,3 +19,5 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietvd13&" alt="vietvd13" /></p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/vuviet13"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vuviet13" /></a></p><br><br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vietvd13" alt="vietvd13" /></a> </p>
