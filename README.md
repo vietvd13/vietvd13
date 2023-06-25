@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vietvd13" alt="vietvd13" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/vietvd13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vietvd13" height="30" width="40" /></a>
 <a href="https://fb.com/vuviet13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vuviet13" height="30" width="40" /></a>
@@ -14,7 +14,7 @@
 <a href="https://discord.gg/vietvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vietvd" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietvd13&show_icons=true&locale=en&layout=compact" alt="vietvd13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&locale=en" alt="vietvd13" /></p>
