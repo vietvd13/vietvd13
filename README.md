@@ -45,14 +45,6 @@
   <img src="https://img.shields.io/badge/PrimeVue-41B883" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Liferay-0B5FFF?logo=liferay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-</p>
 
 ---
 
