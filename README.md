@@ -35,6 +35,35 @@
 
 ---
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-2%20%7C%203-4FC08D?logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap%20Vue-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeVue-41B883" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liferay-0B5FFF?logo=liferay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### 🧩 Recent Projects
+- **[qa-toolkit](https://github.com/vietvd13/qa-toolkit)** — A modular Chrome extension (Manifest V3) that brings everyday QA and testing utilities together in one hub, with a shared design system, light/dark themes and an optional local web version.
+- **[sova-landing](https://github.com/vietvd13/sova-landing)** — Landing page built with TypeScript.
+- **[vietvd-portfolio](https://github.com/vietvd13/vietvd-portfolio)** — Personal portfolio built with Vue.
+- **[study-app](https://github.com/vietvd13/study-app)** — Study application built with Laravel and Vue.js.
+
+---
+
 ### 📈 GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vietvd13&show_icons=true&theme=default" alt="GitHub stats" />
